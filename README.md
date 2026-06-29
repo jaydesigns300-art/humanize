@@ -45,7 +45,7 @@ Write or paste your text in Claude and say "humanize this" or "rewrite this." Th
 
 ## Built by
 
-Jay Hari Nair — Senior Product Designer, ADPList Top 50 Mentor, Figma community contributor.
+Jay Hari Nair - Senior Product Designer, ADPList Top 50 Mentor, Figma community contributor.
 
 ## Updates
 
